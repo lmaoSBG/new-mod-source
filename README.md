@@ -14,13 +14,17 @@ If you're unsure where to run this command, read below for assistance.
 
 Open a terminal/command prompt window:
 
-https://files.catbox.moe/lanr3n.png
+![image](https://github.com/lmaoSBG/new-mod-source/assets/88083894/40c8b51f-93f7-4dbc-b7f0-8dc1ec52dc95)
+
+If the above image is unavailable: https://files.catbox.moe/lanr3n.png
 
 Go to this repositories directory by typing the command 'cd PATH'
 
 To find the PATH, go to the repositories main folder, and copy the text pointed to in this image:
 
-https://files.catbox.moe/zqasio.png
+![image](https://github.com/lmaoSBG/new-mod-source/assets/88083894/1a28674b-07fb-497e-a2c6-1a299ad5a9a7)
+
+If the above image is unavailable:  https://files.catbox.moe/zqasio.png
 
 Then run the command from issue https://github.com/ShadowMario/FNF-PsychEngine/issues/13473
 
