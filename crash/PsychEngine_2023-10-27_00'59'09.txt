@@ -1,0 +1,19 @@
+openfl/events/SampleDataEvent.hx (line 189)
+openfl/media/Sound.hx (line 748)
+flixel/sound/FlxSound.hx (line 623)
+flixel/sound/FlxSound.hx (line 487)
+flixel/system/frontEnds/SoundFrontEnd.hx (line 122)
+states/TitleState.hx (line 198)
+states/TitleState.hx (line 180)
+flixel/util/FlxTimer.hx (line 205)
+flixel/util/FlxTimer.hx (line 295)
+flixel/FlxGame.hx (line 750)
+flixel/FlxGame.hx (line 682)
+flixel/FlxGame.hx (line 556)
+openfl/events/EventDispatcher.hx (line 444)
+openfl/display/DisplayObject.hx (line 1400)
+
+Uncaught Error: To be consistent with flash the listener function registered to SampleDataEvent has to provide between 2048 and 8192 samples.
+Please report this error to the GitHub page: https://github.com/ShadowMario/FNF-PsychEngine
+
+> Crash Handler written by: sqirra-rng
